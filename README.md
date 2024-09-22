@@ -1,2 +1,2 @@
 # DSC680-Applied-Data-Science
-Portfolio of data science projects
+This repository contains my portfolio of data science projects.
