@@ -26,7 +26,8 @@ Projects include:
       This project uses classification models to predict the likelihood of fatality In if car crashes were to happen with certain conditions present. 
 9.	Housing Price Prediction
       This project uses time series analysis to predict the average housing price of homes in or around the London area.
-10. DSC 680 Project 3
+10.   Customer Reviews Analysis
+      This project uses Vader to analyze written customer feedback to understand the sentiment of the text.
 
 ## Contact: 
 You can contact me at xxxx@fake.email.com
